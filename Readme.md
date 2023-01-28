@@ -10,12 +10,7 @@ We have come up with a new innovative solution through which you can directly do
 
 ## Skills Required:
 IBM Cloud,HTML,Javascript,IBM Cloud Object Storage,Python-Flask,Kubernetes,Docker,IBM DB2,IBM Container Registry
-  
-  ## Team Members       
-  Team Leader - Rakesh.M     
-  Team Member 1 - Saravanan.M    
-  Team Member 2 - Santhosh.P      
-  Team Member 3 - Thirupathi.P    
+      
   
   ## Industry Mentor:
   Name: Krishna Chaitanya
